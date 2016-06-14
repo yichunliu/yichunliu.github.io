@@ -1,0 +1,96 @@
+    /*一些基本設定*/
+    
+    @import url(http://fonts.googleapis.com/earlyaccess/notosanskannada.css);
+    * {
+        color: black;
+        font-size: 16px;
+        letter-spacing: 2px;
+        font-family: 'Noto Sans Kannada', sans-serif, serif;
+        text-decoration: none;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    header {
+        background-color: #DDDDDD;
+        margin: 0px;
+    }
+    
+    h1 {
+        color: #666666;
+        font-size: 200%;
+        margin: 0px;
+        padding: 30px 30px 20px 30px;
+    }
+    
+    nav ul>li {
+        list-style-type: none;
+        list-style-position: inside;
+        display: inline-block;
+        margin: 0px;
+        padding: 10px 20px;
+    }
+    
+    nav a:hover {
+        color: #ADADAD;
+    }
+    
+    h2 {
+        color: #666666;
+        font-size: 150%;
+        margin: 30px;
+        padding: 0px;
+    }
+    
+    div.content {
+        background-color: white;
+        border-top-style: dashed;
+        border-bottom-style: dashed;
+        border-color: #ADADAD;
+        border-width: 2px;
+        padding: 5px 0px 5px 0px;
+    }
+    
+    h3 {
+        color: #D87093;
+        font-size: 133%;
+        margin: 30px;
+        padding: 0px;
+    }
+    
+    article img {
+        margin: 10px 30px 10px 30px;
+        padding: 0px;
+    }
+    
+    p {
+        font-size: 16px;
+        line-height: 24px;
+        color: black;
+        min-width: 520px;
+        max-width: 520px;
+        margin: 10px 30px 10px 30px;
+        padding: 0px;
+    }
+    
+    ol {
+        margin: 10px 30px 10px 30px;
+        padding: 0px;
+    }
+    
+    li {
+        color: black;
+        line-height: 30px;
+        margin: 0px 0px 0px 30px;
+    }
+    
+    table {
+        border-spacing: 20px;
+        width: 500px;
+        margin: 10px 30px 10px 30px;
+        padding: 0px;
+    }
+    
+    td {
+        padding: 10px;
+    }
