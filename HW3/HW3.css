@@ -1,0 +1,95 @@
+/*基本元素設定*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 3px solid #ADADAD;
+    width: 300px;
+    height: 614px;
+    margin: 45px 0px 50px 100px;
+    float: left;
+    border-radius: 40px;
+    background-color: #F0F0F0;
+}
+
+iframe {
+    width: 271px;
+    height: 478px;
+    float: left;
+    position: absolute;
+    margin-top: 63px;
+    margin-left: 12px;
+    background-color: black;
+    border-radius: 4px;
+}
+
+
+/*.A {
+    border: 1px solid #000000;
+    width: 271px;
+    height: 478px;
+    float: left;
+    position: absolute;
+    margin-top: 63px;
+    margin-left: 12px;
+    background-color: black;
+    border-radius: 4px;
+}*/
+
+.B {
+    border: 3px solid #9D9D9D;
+    width: 43px;
+    height: 43px;
+    float: left;
+    position: absolute;
+    margin-top: 551px;
+    margin-left: 125px;
+    border-radius: 50%;
+}
+
+.C {
+    border: 1px solid #5B5B5B;
+    width: 40px;
+    height: 3px;
+    float: left;
+    position: absolute;
+    margin-top: 33px;
+    margin-left: 128px;
+    border-radius: 30%;
+    background-color: #5B5B5B;
+}
+
+.D {
+    border: 1px solid #5B5B5B;
+    width: 7px;
+    height: 7px;
+    float: left;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 145px;
+    border-radius: 50%;
+    background-color: #5B5B5B;
+}
+
+.E {
+    border: 1px solid #5B5B5B;
+    width: 10px;
+    height: 10px;
+    float: left;
+    position: absolute;
+    margin-top: 29px;
+    margin-left: 103px;
+    border-radius: 50%;
+    background-color: #5B5B5B;
+}
+
+img.iphone {
+    width: 700px;
+    margin-top: 0px;
+    margin-left: -130px;
+    float: left;
+}

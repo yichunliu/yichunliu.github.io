@@ -1,0 +1,24 @@
+* {
+    background-color: #5A5AAD;
+    color: #D8D8EB;
+    font-size: 18px;
+    letter-spacing: 4px;
+    font-family: , sans-serif, serif;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #B8B8DC;
+    margin: 250px 250px 20px 250px;
+    padding: 100px 30px 100px 30px;
+    text-align: center;
+}
+
+li {
+    padding: 10px;
+    list-style-type: none;
+}
